@@ -49,7 +49,7 @@ d542_group6/
 ## **How to Run This Project**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/d542_group6.git
+   git clone https://github.com/VidalTinoco/d542_group6
    cd d542_group6
    ```  
 2. Run individual analysis scripts within the `RQ1`, `RQ2`, and `RQ7` folders.  
