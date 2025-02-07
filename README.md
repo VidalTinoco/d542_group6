@@ -12,14 +12,15 @@ This project explores developer interactions with ChatGPT, leveraging natural la
 
 ```plaintext
 d542_group6/
-│── data/                # Raw and clean dataset 
-│── data_cleaning/       # Preprocessing scripts 
-│── RQ1/                 # Analysis & results for Research Question 1
-│── RQ2/                 # Analysis & results for Research Question 2
-│── RQ7/                 # Analysis & results for Research Question 7
-│── Project.pdf          # Final project report
-│── .gitattributes       # Git tracking settings
-│── .DS_Store            # macOS system file (ignore)
+│── data/                                # Raw and clean dataset 
+│── data_cleaning/                       # Preprocessing scripts 
+│── RQ1/                                 # Analysis & results for Research Question 1
+│── RQ2/                                 # Analysis & results for Research Question 2
+│── RQ7/                                 # Analysis & results for Research Question 7
+│── Project.pdf                          # Project instructions
+│── DATA 542 Project Report.pdf          # Final project report
+│── .gitattributes                       # Git tracking settings
+│── .DS_Store                            # macOS system file (ignore)
 ```
 
 ## **Methodology**  
